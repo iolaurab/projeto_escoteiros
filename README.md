@@ -27,7 +27,7 @@ O Movimento Escoteiro depende de adultos voluntários que organizam jovens, patr
 
 Este projeto propõe um **sistema multiplataforma**, em que cada interface é adequada ao seu contexto de uso:
 
-| Plataforma | Para quem | Para quê |
+| Plataforma | Para quem | Por quê |
 |---|---|---|
 | 📱 **Mobile** | Escotistas | Gestão de campo: jovens, patrulhas e atividades, direto do celular |
 | 🖥️ **Desktop** | Dirigentes | Gestão financeira: mensalidades e fluxo de caixa por ramo |

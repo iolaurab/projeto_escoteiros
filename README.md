@@ -181,13 +181,13 @@ O sistema passou por **48 casos de teste** na disciplina *Qualidade e Testes de 
 
 ## 👥 Equipe
 
-| Integrante | Frente |
-|---|---|
-| Laura Beatriz Campos | Scrum Master / Product Owner · Web · Documentação |
-| Luís Gustavo Texeira Silva | Co-Scrum Master · Back-end e banco de dados |
-| Luiz Tadeu Becari Dias da Silva | Mobile |
-| Otho Oliver Ribeiro | Desktop |
-| Daniel Patricio Barbosa Junior | Web |
+| Integrante | Frente | GitHub |
+|---|---|---|
+| Laura Beatriz Campos | Scrum Master / Product Owner · Web · Documentação | [@iolaurab](https://github.com/iolaurab) |
+| Luís Gustavo Texeira Silva | Co-Scrum Master · Back-end e banco de dados | [@LuisGustavo656](https://github.com/LuisGustavo656) |
+| Luiz Tadeu Becari Dias da Silva | Mobile | [@luiztbecari](https://github.com/luiztbecari) |
+| Otho Oliver Ribeiro | Desktop | [@OORibeiro](https://github.com/OORibeiro) |
+| Daniel Patricio Barbosa Junior | Web | – |
 
 **Orientadora:** Prof.ª Eulaliane Aparecida Gonçalves
 
